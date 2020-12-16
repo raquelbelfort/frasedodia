@@ -1,0 +1,14 @@
+* {
+    background-color: rgba(58, 199, 255, 0.849);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px
+}
+
+div {
+    background-color: rgba(28, 153, 255, 0.171);
+}
+
+#autor {
+    color: rgb(0, 61, 110);
+}
+
